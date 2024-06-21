@@ -1,0 +1,9 @@
+{
+	"name": "srinath-learning-adf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "02e58beb-700b-45b6-8acf-1b54bfcb92b2",
+		"tenantId": "62ce9b0b-d51e-4115-8302-0a51cfaf55cc"
+	}
+}
